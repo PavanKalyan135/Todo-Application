@@ -97,7 +97,7 @@ function App() {
   };
   return (
     <>
-      <h1>My Todos</h1>
+      <h1>Todo Daily Summary</h1>
       <div className="todo-wrapper">
         <div className="todo-input">
           <div className="todo-input-item">
